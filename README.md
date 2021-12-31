@@ -44,8 +44,8 @@ During emergency events, the speed and exactness at which aid is provided is ver
     |- train_classifier.py
     |- classifier.pkl  # saved model 
 
-- README.md
-- ETL and ML preparations
+    - README.md
+    - ETL and ML preparations
 
 
 ### Instructions
