@@ -3,6 +3,7 @@ Analysis of disaster data (from company Figure Eight) to build a model for an AP
 
 Dataset containing real messages that were sent during disaster events were analyzed. Then, a machine learning pipeline to categorize these events was created; so that workers can send the messages to the appropriate disaster relief agency suited for the particular emergency.
 
+
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data. 
 
 ## Table of Contents
