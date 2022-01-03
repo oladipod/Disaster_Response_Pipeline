@@ -39,7 +39,7 @@ During emergency events, the speed and exactness at which aid is provided is ver
     |- disaster_categories.csv  # data to process 
     |- disaster_messages.csv  # data to process
     |- process_data.py
-    |- InsertDatabaseName.db   # database to save clean data to
+    |- IDisasterResponse.db   # database to save clean data to
 
     - models
     |- train_classifier.py
